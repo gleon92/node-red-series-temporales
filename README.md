@@ -1,5 +1,5 @@
 
-Segunda actividad calíficada del curso Internet de las COSAS UNSA-2021
+Segunda actividad calíficada del curso Internet de las cosas UNSA-2021
 
 Instalación y configuración propuesta en el capítulo 7 del libro Build Your Own IT Platform usando docker.
 
