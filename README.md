@@ -14,3 +14,5 @@ Instalación y configuración propuesta en el capítulo 7 del libro Build Your O
 - Capítulo 7/flow.js que contiene la configuración del flow usado en node-red del capítulo "Building the critical Components"
 - Capítulo 7/tSeriesDB.sql contiene la configuración de la tabla thingsData usada para almacenar las series temporales
 - Capítulo 9/flow.js que contiene la configuración del flow usado en node-red del capítulo 9 "Creating a Rest Interface" parte 1("Data access API" y "Data deletion API")
+- Capítulo 10/tSeriesDB.sql contiene la configuración de la tabla thingsData usada para almacenar las series temporales y la tabla ruleEngine que contiene los registros usados en el motor de reglas
+- Capítulo 10/flow.js que contiene la configuración del flow usado en node-red del capítulo 10 "Rule Engine and authentication" parte 1("Rule Management API"))
